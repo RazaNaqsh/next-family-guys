@@ -2670,6 +2670,20 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/home/raza/repos/fullstackProjects/next-family-guy/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/raza/repos/fullstackProjects/next-family-guy/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/home/raza/repos/fullstackProjects/next-family-guy/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
@@ -3053,20 +3067,6 @@ self.__RSC_MANIFEST={
         "app/characters/[slug]/error:static/chunks/app/characters/[slug]/error.js"
       ],
       "async": false
-    },
-    "/home/raza/repos/fullstackProjects/next-family-guy/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/home/raza/repos/fullstackProjects/next-family-guy/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     },
     "/home/raza/repos/fullstackProjects/next-family-guy/app/characters/[slug]/error.jsx": {
       "id": "(app-client)/./app/characters/[slug]/error.jsx",
